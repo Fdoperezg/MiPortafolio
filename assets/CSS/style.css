@@ -13,6 +13,8 @@ nav {
 }
 
 .TextoFP {
+  color: white;
+  font-family: 'Sansita Swashed', cursive;
   font-size: 35px;
 }
 
@@ -61,6 +63,27 @@ header  {
 
 .sizetexticons {
   font-size: 50px;
+}
+
+.sizeUltimosTrabajos {
+  font-weight: 700;
+  margin-top: 30px;
+}
+
+.stylecontacto {
+  background-color: #FA8A22;
+}
+
+.sizeContactame {
+  font-weight: 700;
+  margin-top: 30px;
+  color: #ffffff;
+}
+
+.icon {
+  color: #ffffff;
+  display: inline-block;
+  margin: 5px;
 }
 
 /* header  {
